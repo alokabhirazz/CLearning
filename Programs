@@ -11,3 +11,16 @@ int main
 
 Compiler: https://www.onlinegdb.com/online_c_compiler
 
+2. write a program to get imput form a keyboard 
+# include<stdio.h>
+int main()
+
+{
+	int number;
+	int n=0, i=10;
+	 
+	printf(" Enter a natural number: ");
+	scanf("%d", &number);
+	printf("Entered number: %d", number);
+	
+}
