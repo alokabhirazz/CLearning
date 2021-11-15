@@ -1,0 +1,13 @@
+1. Write a program to print "Hello World"
+# include<stdio.h>
+
+int main 
+{
+    
+    print f ( hello world );
+    
+    return 0;
+}
+
+Compiler: https://www.onlinegdb.com/online_c_compiler
+
